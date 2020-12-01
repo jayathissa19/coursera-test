@@ -1,0 +1,22 @@
+<style>
+.row > div {
+	background-color: gray;
+	margin: 7px;
+}
+
+h3{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+#header-nav{
+	background-color: gray;
+	border-radius: 0;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+</style>
